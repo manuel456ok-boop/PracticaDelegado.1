@@ -46,13 +46,14 @@ Opción no válida.
 
 capturas del programa.
 suma
-<img width="1653" height="938" alt="image" src="https://github.com/user-attachments/assets/fb6b11e3-c393-48f2-bfe8-3ac20dae1f03" />
+<img width="1724" height="921" alt="image" src="https://github.com/user-attachments/assets/d6708154-3477-448c-9cdc-3f21f99ec58d" />
 resta
-<img width="1750" height="904" alt="image" src="https://github.com/user-attachments/assets/2c6b9d90-0384-43ef-8932-cc706f9d81fc" />
+<img width="1764" height="895" alt="image" src="https://github.com/user-attachments/assets/80894eab-3ce0-4082-8a9b-6285c46063a3" />
 multiplicacion
-<img width="1719" height="968" alt="image" src="https://github.com/user-attachments/assets/e82bd516-af39-4d26-827f-ef7cb5d4061d" />
+<img width="1690" height="806" alt="image" src="https://github.com/user-attachments/assets/6e77362f-3ce6-43b3-b789-b7d00df60c4d" />
 division
-<img width="1658" height="995" alt="image" src="https://github.com/user-attachments/assets/6e5aa98d-fd42-4a56-968b-d1d8b50d87dd" />
+<img width="1530" height="764" alt="image" src="https://github.com/user-attachments/assets/089509e1-ee8f-4f6b-bf1c-298494dd50b6" />
+
 
 
 
